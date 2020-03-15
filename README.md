@@ -86,3 +86,8 @@ toc::[]
 </tr>
 </tbody>
 </table>
+
+<ul>
+<li>Added new streaming read method</li>
+<li>Added setFetchSize() procedure</li>
+</ul>
